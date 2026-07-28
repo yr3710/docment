@@ -4,33 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7081e02-d8e5-48f9-a6d4-0eabb31eaa90" name="Changes" comment="add-init">
-      <change afterPath="$PROJECT_DIR$/agent/functioncall.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/mcp.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/MCP Server架构.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/MCP Server调用.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/MCP通信流程对比.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/functioncall局限性.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/functioncall流程.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/functioncall解决.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/mcp server创建.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/mcp server配置-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/mcp server配置-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/mcp stdio优缺点.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/mcp tool调用.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/mcp 调用流程.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/mcp总结.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/mcp支持的三种传输类型.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/mcp逻辑.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/stdio通信.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/streamable http.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/streamable测试.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/text_to_sql.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/text_to_sql完整流程.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/中间人代码执行过程.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/客户端配置mcp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agent/reference/标准流.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a7081e02-d8e5-48f9-a6d4-0eabb31eaa90" name="Changes" comment="add-mcp">
+      <change afterPath="$PROJECT_DIR$/agent/reference/skill/codex配置skill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/skill/meeting-minutes-generator.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/skill/skill加载.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/skill/skill总结.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/skill/skill执行.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/skill/skill是什么.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/skill/skill标准的目录结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/skill/skill流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/skill/skill激活.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/skill/使用skill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/skill/创建skill的skill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/skill/天气查询skill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/skill/渐进式披露.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/skill/财务报销.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/skill/财务报销.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/skill-02.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/skill.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,31 +75,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PycharmProjects/PersonCoding/docment/agent/reference&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/PycharmProjects/PersonCoding/docment/agent/reference/skill",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\PersonCoding\docment\agent\reference\skill" />
       <recent name="D:\PycharmProjects\PersonCoding\docment\agent\reference" />
       <recent name="D:\PycharmProjects\PersonCoding\docment\ollama\reference" />
       <recent name="D:\PycharmProjects\PersonCoding\docment" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\PersonCoding\docment\agent\reference\mcp" />
       <recent name="D:\PycharmProjects\PersonCoding\docment\ollama" />
     </key>
   </component>
@@ -129,7 +122,7 @@
       <updated>1785075851243</updated>
       <workItem from="1785080534900" duration="2108000" />
       <workItem from="1785132612336" duration="4168000" />
-      <workItem from="1785203069876" duration="7975000" />
+      <workItem from="1785203069876" duration="10544000" />
     </task>
     <task id="LOCAL-00001" summary="add-ollama ,dify相关">
       <option name="closed" value="true" />
@@ -147,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785078220051</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add-mcp">
+      <option name="closed" value="true" />
+      <created>1785214215009</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1785214215009</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +168,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add-ollama ,dify相关" />
     <MESSAGE value="add-init" />
-    <option name="LAST_COMMIT_MESSAGE" value="add-init" />
+    <MESSAGE value="add-mcp" />
+    <option name="LAST_COMMIT_MESSAGE" value="add-mcp" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
