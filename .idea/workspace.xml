@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7081e02-d8e5-48f9-a6d4-0eabb31eaa90" name="Changes" comment="" />
+    <list default="true" id="a7081e02-d8e5-48f9-a6d4-0eabb31eaa90" name="Changes" comment="add-init">
+      <change afterPath="$PROJECT_DIR$/agent/functioncall.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/mcp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/MCP Server架构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/MCP Server调用.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/MCP通信流程对比.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/functioncall局限性.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/functioncall流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/functioncall解决.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/mcp server创建.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/mcp server配置-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/mcp server配置-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/mcp stdio优缺点.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/mcp tool调用.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/mcp 调用流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/mcp总结.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/mcp支持的三种传输类型.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/mcp逻辑.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/stdio通信.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/streamable http.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/streamable测试.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/text_to_sql.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/text_to_sql完整流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/中间人代码执行过程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/客户端配置mcp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/reference/标准流.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,45 +64,47 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "yr3710"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yr3710&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:yr3710/docment.git",
-    "accountId": "35ff74ec-0890-4918-8749-414885fc98e5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:yr3710/docment.git&quot;,
+    &quot;accountId&quot;: &quot;35ff74ec-0890-4918-8749-414885fc98e5&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3H2p7WICvuvv5Fhqmz8pQPQEOQg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "D:/PycharmProjects/PersonCoding/docment/ollama/reference",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PycharmProjects/PersonCoding/docment/agent/reference&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\PersonCoding\docment\agent\reference" />
       <recent name="D:\PycharmProjects\PersonCoding\docment\ollama\reference" />
       <recent name="D:\PycharmProjects\PersonCoding\docment" />
     </key>
@@ -97,11 +127,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1785075851243</updated>
+      <workItem from="1785080534900" duration="2108000" />
+      <workItem from="1785132612336" duration="4168000" />
+      <workItem from="1785203069876" duration="7975000" />
     </task>
+    <task id="LOCAL-00001" summary="add-ollama ,dify相关">
+      <option name="closed" value="true" />
+      <created>1785078210588</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1785078210588</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add-init">
+      <option name="closed" value="true" />
+      <created>1785078220051</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1785078220051</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add-ollama ,dify相关" />
+    <MESSAGE value="add-init" />
+    <option name="LAST_COMMIT_MESSAGE" value="add-init" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
