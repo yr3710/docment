@@ -4,16 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7081e02-d8e5-48f9-a6d4-0eabb31eaa90" name="Changes" comment="add-skill">
-      <change afterPath="$PROJECT_DIR$/docker/docker命令.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/harness-engineering/harness知识库.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/harness-engineering/reference/harness五个子系统.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/harness-engineering/reference/sft.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/harness-engineering/reference/工程演变.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/harness-engineering/reference/微调的三种数据格式.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/harness-engineering/reference/检验地图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开源技术社区帖子/tecent/Claude Code技巧.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/微调/微调.md" afterDir="false" />
+    <list default="true" id="a7081e02-d8e5-48f9-a6d4-0eabb31eaa90" name="Changes" comment="add-harness">
+      <change afterPath="$PROJECT_DIR$/开源项目/Agent-CustomerService.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开源项目/Aix-DB.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开源项目/CAD-BOQ Pipeline.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开源项目/ConstructDrawingAI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开源项目/Medical-RAG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开源项目/ShopAssist-Agent.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开源项目/TradingAgents.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开源项目/YuXi.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开源项目/agency-agents-zh.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开源项目/ai-customer-service-agent.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开源项目/openclaw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开源项目/sofagent.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开源项目/开源项目.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +79,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PycharmProjects/PersonCoding/docment/微调&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PycharmProjects/PersonCoding/docment/开源项目&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -87,11 +91,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\PersonCoding\docment\开源项目" />
       <recent name="D:\PycharmProjects\PersonCoding\docment\微调" />
       <recent name="D:\PycharmProjects\PersonCoding\docment\harness-engineering\reference" />
       <recent name="D:\PycharmProjects\PersonCoding\docment\agent\reference\skill" />
       <recent name="D:\PycharmProjects\PersonCoding\docment\agent\reference" />
-      <recent name="D:\PycharmProjects\PersonCoding\docment\ollama\reference" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PycharmProjects\PersonCoding\docment\agent\reference\mcp" />
@@ -121,7 +125,8 @@
       <workItem from="1785427486739" duration="579000" />
       <workItem from="1785895704421" duration="3197000" />
       <workItem from="1785997491624" duration="5318000" />
-      <workItem from="1786026290304" duration="1231000" />
+      <workItem from="1786026290304" duration="6670000" />
+      <workItem from="1786072987747" duration="4700000" />
     </task>
     <task id="LOCAL-00001" summary="add-ollama ,dify相关">
       <option name="closed" value="true" />
@@ -155,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785216775484</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add-harness">
+      <option name="closed" value="true" />
+      <created>1786028707715</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1786028707715</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +190,8 @@
     <MESSAGE value="add-init" />
     <MESSAGE value="add-mcp" />
     <MESSAGE value="add-skill" />
-    <option name="LAST_COMMIT_MESSAGE" value="add-skill" />
+    <MESSAGE value="add-harness" />
+    <option name="LAST_COMMIT_MESSAGE" value="add-harness" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
