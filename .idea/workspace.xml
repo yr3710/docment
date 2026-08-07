@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7081e02-d8e5-48f9-a6d4-0eabb31eaa90" name="Changes" comment="add-harness">
-      <change afterPath="$PROJECT_DIR$/开源项目/Agent-CustomerService.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开源项目/Aix-DB.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开源项目/CAD-BOQ Pipeline.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开源项目/ConstructDrawingAI.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开源项目/Medical-RAG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开源项目/ShopAssist-Agent.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开源项目/TradingAgents.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开源项目/YuXi.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开源项目/agency-agents-zh.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开源项目/ai-customer-service-agent.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开源项目/openclaw.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开源项目/sofagent.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开源项目/开源项目.md" afterDir="false" />
+    <list default="true" id="a7081e02-d8e5-48f9-a6d4-0eabb31eaa90" name="Changes" comment="add-开源项目">
+      <change afterPath="$PROJECT_DIR$/开源项目/tgo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开源项目/开源项目.md" beforeDir="false" afterPath="$PROJECT_DIR$/开源项目/开源项目.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +38,19 @@
     </persistenceIdMap>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -126,7 +128,7 @@
       <workItem from="1785895704421" duration="3197000" />
       <workItem from="1785997491624" duration="5318000" />
       <workItem from="1786026290304" duration="6670000" />
-      <workItem from="1786072987747" duration="4700000" />
+      <workItem from="1786072987747" duration="5358000" />
     </task>
     <task id="LOCAL-00001" summary="add-ollama ,dify相关">
       <option name="closed" value="true" />
@@ -168,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786028707715</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add-开源项目">
+      <option name="closed" value="true" />
+      <created>1786083896717</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1786083896717</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +201,8 @@
     <MESSAGE value="add-mcp" />
     <MESSAGE value="add-skill" />
     <MESSAGE value="add-harness" />
-    <option name="LAST_COMMIT_MESSAGE" value="add-harness" />
+    <MESSAGE value="add-开源项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="add-开源项目" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
