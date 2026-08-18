@@ -1,3 +1,8 @@
+# harness-engineering 知识库
+
+https://walkinglabs.github.io/learn-harness-engineering/zh/
+
+
 ## Agent的失败模式
 
 1. **需求描述模糊，agent 只能猜。** "加个搜索功能"，这话说了等于没说。搜索的对象是什么？全文本还是结构化查询？结果要不要分页、要不要高亮？你没说明白，agent 就只好自己猜。猜对了算运气好，猜错了你再改，来回一折腾，比一开始说清楚多花好几倍的时间。
