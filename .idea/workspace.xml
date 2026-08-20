@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7081e02-d8e5-48f9-a6d4-0eabb31eaa90" name="Changes" comment="add-开源项目">
-      <change afterPath="$PROJECT_DIR$/开源项目/tgo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/微调/怎么选微调.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/微调/数据格式.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/开源项目/开源项目.md" beforeDir="false" afterPath="$PROJECT_DIR$/开源项目/开源项目.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/微调/微调.md" beforeDir="false" afterPath="$PROJECT_DIR$/微调/微调.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,28 +74,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PycharmProjects/PersonCoding/docment/开源项目&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/PycharmProjects/PersonCoding/docment/微调",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\PycharmProjects\PersonCoding\docment\开源项目" />
       <recent name="D:\PycharmProjects\PersonCoding\docment\微调" />
+      <recent name="D:\PycharmProjects\PersonCoding\docment\开源项目" />
       <recent name="D:\PycharmProjects\PersonCoding\docment\harness-engineering\reference" />
       <recent name="D:\PycharmProjects\PersonCoding\docment\agent\reference\skill" />
       <recent name="D:\PycharmProjects\PersonCoding\docment\agent\reference" />
@@ -128,7 +129,25 @@
       <workItem from="1785895704421" duration="3197000" />
       <workItem from="1785997491624" duration="5318000" />
       <workItem from="1786026290304" duration="6670000" />
-      <workItem from="1786072987747" duration="5358000" />
+      <workItem from="1786072987747" duration="6328000" />
+      <workItem from="1786091342809" duration="1326000" />
+      <workItem from="1786328316892" duration="5873000" />
+      <workItem from="1786357573862" duration="4873000" />
+      <workItem from="1786445184613" duration="292000" />
+      <workItem from="1786500781798" duration="2976000" />
+      <workItem from="1786520823175" duration="1967000" />
+      <workItem from="1786529833018" duration="4746000" />
+      <workItem from="1786603165218" duration="4187000" />
+      <workItem from="1786674363529" duration="1671000" />
+      <workItem from="1786867222567" duration="873000" />
+      <workItem from="1786870530843" duration="690000" />
+      <workItem from="1786872507040" duration="594000" />
+      <workItem from="1786888887745" duration="594000" />
+      <workItem from="1786933236456" duration="2401000" />
+      <workItem from="1787019481192" duration="4157000" />
+      <workItem from="1787050226836" duration="235000" />
+      <workItem from="1787104288596" duration="2311000" />
+      <workItem from="1787148589470" duration="3590000" />
     </task>
     <task id="LOCAL-00001" summary="add-ollama ,dify相关">
       <option name="closed" value="true" />
@@ -178,7 +197,31 @@
       <option name="project" value="LOCAL" />
       <updated>1786083896717</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add-开源项目">
+      <option name="closed" value="true" />
+      <created>1786084547739</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1786084547739</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add-开源项目">
+      <option name="closed" value="true" />
+      <created>1787019611137</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1787019611137</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add-开源项目">
+      <option name="closed" value="true" />
+      <created>1787046611692</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1787046611692</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
