@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7081e02-d8e5-48f9-a6d4-0eabb31eaa90" name="Changes" comment="add-开源项目">
-      <change afterPath="$PROJECT_DIR$/微调/怎么选微调.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/微调/数据格式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开源项目/查询开源项目落地指令.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开源项目/查询模版.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/微调/微调.md" beforeDir="false" afterPath="$PROJECT_DIR$/微调/微调.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开源项目/开源项目.md" beforeDir="false" afterPath="$PROJECT_DIR$/开源项目/开源项目.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +147,7 @@
       <workItem from="1787019481192" duration="4157000" />
       <workItem from="1787050226836" duration="235000" />
       <workItem from="1787104288596" duration="2311000" />
-      <workItem from="1787148589470" duration="3590000" />
+      <workItem from="1787148589470" duration="7334000" />
     </task>
     <task id="LOCAL-00001" summary="add-ollama ,dify相关">
       <option name="closed" value="true" />
@@ -221,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787046611692</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add-开源项目">
+      <option name="closed" value="true" />
+      <created>1787196161766</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1787196161766</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
